@@ -87,7 +87,7 @@ MIT License — see license.txt for details.
 ## Author
 Samarth Shekhar
 - GitHub: [https://github.com/Samarth-Shekhar](https://github.com/Samarth-Shekhar)  
-- LinkedIn: [https://www.linkedin.com/in/samarth-shekhar/](https://www.linkedin.com/in/samarth-shekhar/)
+- LinkedIn:[ www.linkedin.com/in/samarth-shekhar-185ba311a](https://www.linkedin.com/in/samarth-shekhar-185ba311a/)
 
 Thank you for checking out my internship project!
 Feel free to connect for feedback or collaboration.
