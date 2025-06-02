@@ -41,8 +41,8 @@ Copy
 Edit
 npm start
 Open your browser at http://localhost:3000
-
-Technologies Used
+``bash 
+## Technologies Used
 React.js (Functional components & hooks)
 
 Syncfusion React Components (Charts, Calendar, Kanban)
@@ -52,28 +52,39 @@ Tailwind CSS for styling
 CRACO to customize Create React App configuration
 
 JavaScript ES6+
+``bash
+## Project Structure
+project_syncfusion_dashboard-main/
+│
+├── public/
+│   ├── favicon.ico
+│   ├── index.html
+│   ├── logo192.png
+│   └── ...
+│
+├── src/
+│   ├── components/
+│   │   ├── Navbar.jsx
+│   │   ├── UserProfile.jsx
+│   │   └── ...
+│   ├── data/
+│   │   ├── dummy.js
+│   │   └── samarth.jpeg
+│   ├── App.js
+│   └── index.js
+│
+├── .gitignore
+├── package.json
+└── README.md
 
-Project Structure
-php
-Copy
-Edit
-src/
-├── components/       # Reusable UI components (Navbar, Sidebar, Charts, UserProfile, etc.)
-├── contexts/         # React Context for theme and state management
-├── data/             # Static data and assets (images, dummy data)
-├── pages/            # Dashboard pages (Calendar, Ecommerce, Charts, etc.)
-├── App.js            # Root component
-└── index.js          # Entry point
-public/
-├── index.html        # HTML template
-└── samarth.jpeg      # Profile/project image
-Contribution
+``bash
+## Contribution
 This project was built as an internship portfolio piece. Feel free to fork, raise issues, or submit pull requests for improvements.
 
-License
+## License
 MIT License — see license.txt for details.
 
-Author
+## Author
 Samarth Shekhar
 GitHub | LinkedIn
 
