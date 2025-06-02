@@ -77,7 +77,7 @@ project_syncfusion_dashboard-main/
 ├── package.json
 └── README.md
 
-``bash
+```
 ## Contribution
 This project was built as an internship portfolio piece. Feel free to fork, raise issues, or submit pull requests for improvements.
 
@@ -86,7 +86,8 @@ MIT License — see license.txt for details.
 
 ## Author
 Samarth Shekhar
-GitHub | LinkedIn
+- GitHub: [https://github.com/Samarth-Shekhar](https://github.com/Samarth-Shekhar)  
+- LinkedIn: [https://www.linkedin.com/in/samarth-shekhar/](https://www.linkedin.com/in/samarth-shekhar/)
 
 Thank you for checking out my internship project!
 Feel free to connect for feedback or collaboration.
