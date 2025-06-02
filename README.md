@@ -41,7 +41,7 @@ Copy
 Edit
 npm start
 Open your browser at http://localhost:3000
-``bash 
+
 ## Technologies Used
 React.js (Functional components & hooks)
 
@@ -52,7 +52,7 @@ Tailwind CSS for styling
 CRACO to customize Create React App configuration
 
 JavaScript ES6+
-``bash
+```
 ## Project Structure
 project_syncfusion_dashboard-main/
 │
