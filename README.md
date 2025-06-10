@@ -92,9 +92,6 @@ Samarth Shekhar
 Thank you for checking out my internship project!
 Feel free to connect for feedback or collaboration.
 
-yaml
-Copy
-Edit
 
 ---
 
