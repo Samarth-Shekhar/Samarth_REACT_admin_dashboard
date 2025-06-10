@@ -470,7 +470,59 @@ export const employeesGrid = [
     width: '125',
     textAlign: 'Center' },
 ];
+[
+  { name: 'Blue', color: '#1A97F5' },
+  { name: 'Green', color: '#03C9D7' },
+  { name: 'Purple', color: '#7352FF' },
+  { name: 'Red', color: '#FF5C8E' },
+  { name: 'Indigo', color: '#1E4DB7' },
+  { name: 'Orange', color: '#FB9678' },
+];
+[
+  {
+    Id: 'Task 1',
+    Title: 'Design Homepage',
+    Status: 'To Do',
+    Summary: 'Create mockups for homepage redesign',
+    Priority: 'High',
+  },
+  {
+    Id: 'Task 2',
+    Title: 'API Integration',
+    Status: 'In Progress',
+    Summary: 'Integrate payment gateway API',
+    Priority: 'Normal',
+  },
+  {
+    Id: 'Task 3',
+    Title: 'Test Login Flow',
+    Status: 'Testing',
+    Summary: 'Ensure login flow works across devices',
+    Priority: 'Low',
+  },
+  {
+    Id: 'Task 4',
+    Title: 'Launch Website',
+    Status: 'Done',
+    Summary: 'Deploy the website to production server',
+    Priority: 'Critical',
+  },
+];
 
+// ✅ Tab navigation for chart switching
+export const chartTabs = [
+  { label: 'Line Chart', path: '/line' },
+  { label: 'Bar Chart', path: '/bar' },
+  { label: 'Pie Chart', path: '/pie' },
+  { label: 'Area Chart', path: '/area' },
+];
+[
+{
+  name: 'Samarth Shekhar',
+  role: 'Frontend Developer',
+  email: 'samarth@example.com',
+  avatar: require('./samarth.jpeg'),
+}]
 export const links = [
   {
     title: 'Dashboard',
